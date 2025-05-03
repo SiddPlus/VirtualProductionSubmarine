@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Portfolio/UCA/Year 2/Virtual Production/VirtualProductionSubmarine/Submarine/Content/Dynamic/Materials/WorldGridMaterial.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/VirtualProductionSubmarine/Submarine/Content/Static/StaticMeshes/UCA_Curve.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/VirtualProductionSubmarine/Submarine/Content/Dynamic/Levels/Level1.umap",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/VirtualProductionSubmarine/Submarine/Content/Dynamic/Levels/Underwater.umap",
 				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Levels/NewFolder/Level1.umap",
 				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Dynamic/SLWM/M_Water.uasset",
 				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Environment/Materials/Rocks/M_Cave_Ground_MASTER_Inst.uasset",
