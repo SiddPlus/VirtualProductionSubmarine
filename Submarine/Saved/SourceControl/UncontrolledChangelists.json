@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Levels/NewFolder/Level1.umap",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Dynamic/SLWM/M_Water.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Environment/Materials/Rocks/M_Cave_Ground_MASTER_Inst.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Environment/Materials/Rocks/NewFolder/M_Cave_Ground_MASTER.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Main_BuiltData.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Main.umap",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Dynamic/Levels/NewFolder/Level1.umap",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Dynamic/Levels/Level1.umap",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Dynamic/Materials/M_Water.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/NewFolder/NewFolder/MF_GroundWetnessAlpha_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/NewFolder/MF_GroundWetnessAlpha_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/MaterialFunctions/MF_GroundWetnessAlpha_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/MaterialFunctions/MF_VertexBlend_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/MaterialFunctions/MF_Mud_Wet_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/MaterialFunctions/MF_Dirt_Wet_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/NewFolder/MF_Dirt_Wet_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/NewFolder/MF_Mud_Wet_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/NewFolder/MF_VertexBlend_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Dynamic/MaterialFunctions/MF_GroundWetnessAlpha_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Dynamic/MaterialFunctions/MF_VertexBlend_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Dynamic/MaterialFunctions/MF_Mud_Wet_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Dynamic/MaterialFunctions/MF_Dirt_Wet_JM.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Dynamic/Materials/M_Cave_Ground_MASTER_Inst.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Dynamic/Materials/M_Cave_Ground_MASTER.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Textures/Rock/T_Cave_Rock_Stalactite_M.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Textures/Rock/T_Cave_Mud_N.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Textures/Rock/T_Cave_Mud_D.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Textures/Rock/T_Cave_Dirt_N.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Textures/Rock/T_Cave_Dirt_D.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Environment/Textures/Rock/T_Cave_Dirt_D.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Environment/Textures/Rock/T_Cave_Dirt_N.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Environment/Textures/Rock/T_Cave_Mud_D.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Environment/Textures/Rock/T_Cave_Mud_N.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Environment/Textures/Rock/T_Cave_Rock_Stalactite_M.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/Static/Textures/T_Water_N.uasset",
+				"D:/Portfolio/UCA/Year 2/Virtual Production/Submarine/Content/StarterContent/Textures/T_Water_N.uasset"
+			]
+		}
+	]
+}
