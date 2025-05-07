@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/GitHubRepo/VirtualProductionSubmarine/Submarine/Content/Static/StaticMeshes/VP_ViewportFrame_05052025.uasset",
+				"F:/GitHubRepo/VirtualProductionSubmarine/Submarine/Content/Static/StaticMeshes/VP_ViewportGlassReversedFront_08052025.uasset",
 				"D:/Portfolio/UCA/Year 2/Virtual Production/VirtualProductionSubmarine/Submarine/Content/Dynamic/Materials/WorldGridMaterial.uasset",
 				"D:/Portfolio/UCA/Year 2/Virtual Production/VirtualProductionSubmarine/Submarine/Content/Static/StaticMeshes/UCA_Curve.uasset",
 				"D:/Portfolio/UCA/Year 2/Virtual Production/VirtualProductionSubmarine/Submarine/Content/Dynamic/Levels/Level1.umap",
